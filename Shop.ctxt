@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Shop
+comment0.text=\n\n\ @author\ Milan\ Palmer\n\ @version\ 1.0\n
+comment1.params=price
+comment1.target=Shop(int)
+comment2.params=
+comment2.target=int\ getPrice()
+comment3.params=
+comment3.target=int\ getNoOfItemsSold()
+comment4.params=amount
+comment4.target=void\ sell(int)
+comment5.params=
+comment5.target=int\ getTotal()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
