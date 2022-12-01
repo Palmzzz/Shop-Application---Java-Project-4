@@ -1,4 +1,4 @@
-My third project was to create a model of a ‘shop’
+My fourth project was to create a model of a ‘shop’
 My shop sells one type of item which is always in stock. 
 
 I needed to model a customer who interacts with the shop.
